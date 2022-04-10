@@ -1,3 +1,26 @@
+Package: code
+Version: 1.66.1-1649257842
+Architecture: amd64
+Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
+Installed-Size: 337932
+Depends: libnss3 (>= 2:3.26), gnupg, apt, libxkbfile1, libsecret-1-0, libgtk-3-0 (>= 3.10.0), libxss1, libgbm1
+Conflicts: visual-studio-code
+Replaces: visual-studio-code
+Provides: visual-studio-code
+Filename: ./code_1.66.1-1649257842_amd64.deb
+Size: 82655032
+MD5sum: 38bc5cb8356de20cb3798725c9b3fa51
+SHA1: 1cbd513dc439dcc4f27082cf8404236fd4cd6c34
+SHA256: d6e7c989d334697e3506b4aebb46ae463fc77e999b4f32fdd7b965d22c9bcb67
+Section: devel
+Priority: optional
+Homepage: https://code.visualstudio.com/
+Description: Code editing. Redefined.
+ Visual Studio Code is a new choice of tool that combines the simplicity of
+ a code editor with what developers need for the core edit-build-debug cycle.
+ See https://code.visualstudio.com/docs/setup/linux for installation
+ instructions and FAQ.
+
 Package: discord
 Version: 0.0.17
 Architecture: amd64
